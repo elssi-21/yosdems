@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Yosef
-- 👀 I’m interested in Web developer
+- 👋 Hi, I’m Elssabet
+- 👀 I’m interested in Accountant
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
